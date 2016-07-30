@@ -1,7 +1,6 @@
 #python3
 # -*- coding: utf-8 -*-
 #code like shit，just testing and personal use
-__author__ = 'Taerg'
 
 import requests
 
