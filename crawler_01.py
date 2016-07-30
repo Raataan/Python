@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-# CopyRight by heibanke
+# 
 import requests
 
 url = '202.96.165.8/EI/Login.aspx?ReturnUrl=%2fEI%2f'
